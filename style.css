@@ -3,15 +3,16 @@
 }
 img{
     width: 80%;
+    border-radius: 5%;
 }
 
-.hero-image{
+.title-image{
     background-image: url("./books.jpg");
     height: 350px;
     background-position: center;
     background-size: cover;
 }
-.hero-text{
+.title-text{
     color:whitesmoke;
     background-color: black;
     position: absolute;
@@ -43,3 +44,4 @@ img{
     text-align: center;
     width: 80%;
 }
+
