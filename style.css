@@ -7,7 +7,7 @@ img{
 }
 
 .title-image{
-    background-image: url("./books.jpg");
+    background-image: url("./images/top-banner.jpg");
     height: 350px;
     background-position: center;
     background-size: cover;
